@@ -1,0 +1,5 @@
+Objective:
+create a function that will add or remove objects from a list/array using
+only push and pop methods. This function needs to use the FILO (First In Last Out) order
+
+create a data structure with the methods enqueue, dequeue and peek
